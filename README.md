@@ -28,6 +28,12 @@ This project was developed to practice:
 - Input validation and error handling
 - Modular program design using functions
 
+## ▶️ How to Run
+```bash
+gcc bank_sys.c -o bank_sys
+./bank_sys
+```
+
 ## 📄 Project Report (PDF)
 
 You can view the full project report here:
